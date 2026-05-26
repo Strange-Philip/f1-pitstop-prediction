@@ -100,7 +100,7 @@ Libraries:
 * [x] Target distribution analyzed
 * [x] Baseline model training — CatBoost Val AUC: **0.9434**
 * [x] Feature importance analyzed (top signal: Year, Stint, TyreLife)
-* [ ] First Kaggle submission
+* [x] First Kaggle submission
 * [ ] Feature engineering iteration loop
 
 ---
