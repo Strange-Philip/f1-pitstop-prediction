@@ -76,20 +76,17 @@ Right now the workflow is intentionally simple:
 1. Load and inspect dataset
 2. Understand feature meanings in race context
 3. Identify predictive vs potentially leaky signals
-4. Build baseline models (starting with gradient boosting)
-5. Iterate through feature engineering based on intuition
+4. Build baseline model (CatBoost)
 
 Models being explored:
 
-* Logistic Regression (baseline)
-* Random Forest (sanity check)
-* LightGBM / XGBoost (main model)
+* CatBoost (gradient boosting)
 
 Libraries:
 
 * pandas
 * scikit-learn
-* LightGBM / XGBoost
+* catboost
 
 ---
 

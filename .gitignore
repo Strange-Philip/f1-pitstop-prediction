@@ -8,3 +8,4 @@ __pycache__/
 *.egg-info/
 .env
 notebooks/catboost_info/
+notebooks/submission*.csv
