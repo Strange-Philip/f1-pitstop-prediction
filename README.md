@@ -99,7 +99,7 @@ Libraries:
 * [x] Feature meanings interpreted
 * [x] Target distribution analyzed
 * [x] Baseline model training — CatBoost Val AUC: **0.9434**
-* [x] Feature importance analyzed (top signal: Year, Stint, TyreLife)
+* [x] Feature importance analyzed (top signal: LapTime_Delta, Stint, TyreLife)
 * [x] First Kaggle submission
 * [ ] Feature engineering iteration loop
 
@@ -124,10 +124,7 @@ Eventually, I want to connect these ideas to:
 
 ## 🚀 Next steps
 
-* Build first baseline CatBoost / LightGBM model
 * Engineer lag + rolling features
-* Analyze feature importance
-* Submit first Kaggle prediction
 * Document experiments properly (like a research log)
 
 ---
